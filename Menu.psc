@@ -19,7 +19,7 @@
 		// procesar esa opción
 		Segun OP Hacer
 			1:
-				Escribir "Lecturas recomendables:"{;}
+				holaaaaaaaaaaaaaaaaaaaaaa lo edite jejejejejej mamaguevo
 				Escribir " + Esperándolo a Tito y otros cuentos de fúbol (Eduardo Sacheri)"{;}
 				Escribir " + El juego de Ender (Orson Scott Card)"{;}
 				Escribir " + El sueño de los héroes (Adolfo Bioy Casares)"{;}
